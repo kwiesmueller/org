@@ -99,6 +99,9 @@ aliases:
     - michmike
     - benmoss
     - ddebroy
+  wg-api-expression-leads:
+    - apelisse
+    - kwiesmueller
   wg-apply-leads:
     - lavalamp
   wg-component-standard-leads:
